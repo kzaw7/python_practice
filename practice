@@ -1,0 +1,9 @@
+Variable, Value, and String
+city_name = "Miami"
+car_type = "Lexus"
+device_type = "apple"
+movie_quote = "winter is coming" 
+company = "Microsoft"
+job_type = "analyst"
+
+
