@@ -7,3 +7,17 @@ company = "Microsoft"
 job_type = "analyst"
 
 
+step_1 = "Collect pants"
+step_2 = "?" 
+step_3 = "Profit"
+
+prin("Hello, World!")
+print("3, 2, 1")
+print("GO!")
+
+greeting = "Hello, Word!"
+print(greeting)
+
+console
+
+
