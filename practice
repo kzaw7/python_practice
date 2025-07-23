@@ -27,5 +27,19 @@ new_status = "download"
 new_status = default_option
 print(new_status)
 
+String value and + sign
+"Followers:" + "55"
+print("Followers:"+"55")
+folowers = "55"
+print("Followers:"+followers)
+
+label = "Posts:" + "12"
+print(label)
+
+print("Jon"+"athan")
+Jonathan
+
+Post:55
+print("Posts:" + "55")
 
 
