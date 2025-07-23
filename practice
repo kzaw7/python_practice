@@ -20,4 +20,12 @@ print(greeting)
 
 console
 
+++++New value to variable 
+default_option = "upload" 
+new_status = "download"
+
+new_status = default_option
+print(new_status)
+
+
 
